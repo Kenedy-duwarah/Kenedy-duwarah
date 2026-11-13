@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kenedy Duwarah</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center"> Kenedy Duwarah</h1>
+<h3 align="center">A passionate software developer, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenedy-duwarah&label=Profile%20views&color=0e75b6&style=flat" alt="kenedy-duwarah" /> </p>
 
-- 🔭 I’m currently working on **making my own project**
+-  I’m currently working on **making my own project**
 
-- 🌱 I’m currently learning **REACT JS,NODE JS,AWS**
+-  I’m currently learning **REACT JS,NODE JS,AWS**
 
-- 💬 Ask me about **HTML,C,C++,CSS,JS,**
+-  Ask me about **HTML,C,C++,CSS,JS,**
 
-- 📫 How to reach me **kenedyduwarah24@gmail.com**
+-  How to reach me **kenedyduwarah24@gmail.com**
 
-- ⚡ Fun fact **I am serious about codding**
+-  Fun fact **I am serious about codding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
